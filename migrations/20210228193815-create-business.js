@@ -31,3 +31,4 @@ module.exports = {
     await queryInterface.dropTable('businesses')
   }
 }
+npm 
